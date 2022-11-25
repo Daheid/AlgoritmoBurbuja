@@ -55,5 +55,6 @@ while salir == 2:
     print("1. Si 2. No")
     salir = int(input("ingrese su opcion: "))
     print("  ")
+    print("un cambio")
 
     #(metodo(lista))
